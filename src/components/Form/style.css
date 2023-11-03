@@ -1,0 +1,25 @@
+.inputForm {
+  all: unset;
+  width: 100%;
+  
+  background-color: #F1F4F9;
+  border: 2px solid white;
+  border-radius: 3rem;
+  
+  padding: 0.9rem 2rem;
+  margin-bottom: 1.5rem;
+}
+.textarea {
+  height: 12rem;
+  border-radius: 0.6rem;
+}
+
+.inputFile{
+  display: none;
+}
+
+.file{
+  background-color: #F1F4F9;
+  padding: 0.9rem;
+  border-radius: 0.6rem;
+}
